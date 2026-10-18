@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Sharma
 
-<h3 align="center">Aspiring MERN Stack Developer | C++ & DSA | Building Real-World Web Applications 🚀</h3>
+<h3 align="center">MERN Stack Developer | C++ & DSA | Building Real-World Web Applications 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/ayushsharma-cse">
