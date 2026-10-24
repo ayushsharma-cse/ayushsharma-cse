@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/ayushsharma-cse">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+in+Progress;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Building+Projects+and+Learning+Every+Day" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Building+Projects+and+Learning+Every+Day" alt="Typing introduction" />
   </a>
 </p>
 
